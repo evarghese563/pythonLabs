@@ -1,0 +1,3 @@
+dab
+bad
+The words are anagrams

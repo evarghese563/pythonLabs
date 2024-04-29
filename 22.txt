@@ -1,0 +1,2 @@
+5.5
+The area of the circle is: 94.985

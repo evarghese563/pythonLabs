@@ -1,0 +1,4 @@
+6
+7
+9
+The fibonacci sequence of the first 9 numbers are: 34
